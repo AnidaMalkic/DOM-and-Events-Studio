@@ -73,5 +73,5 @@ window.addEventListener("load", function() {
     down.addEventListener("click", function (event) {
     let down = document.getElementById('spaceShuttleHeight');
     down -= 10000 
-                       });     
+    });
 });
